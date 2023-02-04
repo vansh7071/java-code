@@ -41,7 +41,7 @@
                         <goal>repackage</goal>
                     </goals>
                     <configuration>
-                        <finalName>Java</finalName>
+                        <finalName>Stark_xebia_session</finalName>
                     </configuration>
                 </execution>
             </executions>
